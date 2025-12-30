@@ -1,0 +1,17 @@
+{
+  "name": "lyrics-scraper",
+  "version": "1.0.0",
+  "description": "A simple lyrics scraper that fetches song lyrics from Genius",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js"
+  },
+  "author": "Issa",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.1",
+    "jsdom": "^19.0.0"
+  }
+}
