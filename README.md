@@ -1,7 +1,7 @@
 <div align="center">
 
 <h2><strong>🎵 Lyrics Scraper</strong></h2>
-<p><em>A lightweight Node.js + Express API for fetching song lyrics from Genius</em></p>
+<p><em>A lightweight Node.js + Express Scraper for fetching song lyrics from Genius</em></p>
 
 <p align="center">
   <a href="#">
