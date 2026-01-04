@@ -42,7 +42,7 @@
 ## 📂 Project Structure
 
 ```text
-lyrics-scraper/
+Lyrics-Scraper/
 ├── src/
 │   ├── routes/
 │   │   └── lyrics.js
@@ -54,8 +54,8 @@ lyrics-scraper/
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/MythicIssa/lyrics-scraper.git
-cd lyrics-scraper
+git clone https://github.com/MythicIssa/Lyrics-Scraper.git
+cd Lyrics-Scraper
 npm install
 ```
 
